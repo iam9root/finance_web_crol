@@ -1,5 +1,5 @@
 # 네이버 증권(주식) 웹 크롤링
-![screenshot_20171221-151714](https://user-images.githubusercontent.com/23310187/34244435-91eab306-e668-11e7-8063-735dff683bf8.png)
+![web_crol](./web_crol.gif)
 
 ## 1. 주요 기능
 
