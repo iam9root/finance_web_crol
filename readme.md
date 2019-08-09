@@ -1,6 +1,6 @@
 # 네이버 증권(주식) 웹 크롤링
 ![web_crol](./web_crol.gif)
-![github](./github.png)
+![web_crol2](./github.PNG)
 
 위 예시는 200여개 사이트에서 동시에 데이터를 가져오는 작업과 csv파일로 만든 결과값입니다.
 ***
