@@ -1,6 +1,7 @@
 # 네이버 증권(주식) 웹 크롤링
 ![web_crol](./web_crol.gif)
 ![web_crol2](./github.PNG)
+![hihi](https://previews.123rf.com/images/thawats/thawats1411/thawats141100344/33943823-아름-다운-푸른-나비에-격리-된-흰색-배경에-비행.jpg)
 
 위 예시는 200여개 사이트에서 동시에 데이터를 가져오는 작업과 csv파일로 만든 결과값입니다.
 ***
